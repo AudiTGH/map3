@@ -16,4 +16,4 @@ urls.push('https://docs.google.com/spreadsheets/d/1EVR6zqtjuGV_mX0AmGxtdRdQzZ8sW
 
 var number = getUrlVars()["u"];
 var googleDocURL = urls[number];
-Var googleApiKey ='AIzaSyBuCCp_xVL36St8f8sn9InouC2eqMDjB8I';
+//Var googleApiKey ='AIzaSyBuCCp_xVL36St8f8sn9InouC2eqMDjB8I';
